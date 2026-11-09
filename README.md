@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/8002-logo.png" width="420" alt="8002"></p>
+
 # Hi, I'm Salman Bashir 👋
 
 **Operator. Entrepreneur. AI Systems Builder.**
